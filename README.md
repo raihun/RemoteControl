@@ -1,0 +1,2 @@
+# RemoteControl
+IPマスカレード配下クライアントに対する超簡易telnetプログラム
